@@ -1,8 +1,28 @@
-# Notes, programs, and files
+# Welcome to my decorators tutorial!
 
-This repo contains the notebook + files from my training class.
+This repo contains the notebook + files from my EuroPython tutorial. It's currently empty, but will fill up as I live-code the tutorial.
 
 Enjoy!
+
+# What do you need?
+
+All you'll need for this tutorial is:
+
+- A copy of Python
+- An IDE
+- A willingness to laugh at my jokes (this is optional, but it'll help)
+
+But wait: You don't even need that! This tutorial will use my all-new LernerPython practice system (https://practice.lernerpython.com/), allowing you to write, debug, and get AI-based help in writing Python code.
+
+Our tutorial's practice page is at: https://practice.lernerpython.com/classroom/24d84164d2/
+
+I'll reveal exercises as the tutorial progresses.
+
+Any questions? Just message me in Discord or e-mail me at reuven@LernerPython.com.
+
+See you in Krakow!
+
+# More about me
 
 If you liked this training, you might also like:
 
